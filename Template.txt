@@ -1,0 +1,16 @@
+echo "import React from 'react';">> component.js
+echo "" >> component.js
+echo "class component extends React.Component {">> component.js
+echo "    state = {">> component.js
+echo "    }">> component.js
+echo "    render () {">> component.js
+echo "        return (">> component.js
+echo "            <div>">> component.js
+echo "                Hello World!">> component.js
+echo "            </div>">> component.js
+echo "        );">> component.js
+echo "    }">> component.js
+echo "}">> component.js
+echo "">> component.js
+echo "export default component;">> component.js
+echo "">> component.js
